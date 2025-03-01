@@ -130,12 +130,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 https://get.perfecttv.net/1080.mpd?channel=arenafhd&username=Perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3ODIwODgsImlzcyI6IlZSIiwiZXhwIjoxNzQwODY4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.9Bm4KTxXBc6Ob-wJHlXliK_54ZT73ql-wXGNyOUGNnA
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-https://get.perfecttv.net/1080.mpd?channel=arena2fhd&username=Perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3ODIwODgsImlzcyI6IlZSIiwiZXhwIjoxNzQwODY4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.9Bm4KTxXBc6Ob-wJHlXliK_54ZT73ql-wXGNyOUGNnA
+#
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
