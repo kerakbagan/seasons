@@ -926,11 +926,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="WWENetwork" tvg-logo="https://perfecttv.net/logo/wwe.png" group-logo="", 817 WWE Network
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
 
 #EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="822.astro" tvg-logo="https://perfecttv.net/logo/golf.png" group-logo="", 818 Golf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
