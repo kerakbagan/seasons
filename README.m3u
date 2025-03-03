@@ -1029,6 +1029,142 @@ https://get.perfecttv.net/linear.mpd?channel=footballsd&username=perfecttv&passw
 #EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+
+#======sport=====
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/unifisport.png", 699 Unifi Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena.png",801 Arena
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena HD" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena2.png",802 Arena 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaB.png" group-title="⚽︎ SPORTS",803 Arena Bola(B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+https://wakutv.site/bola1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaC.png" group-title="⚽︎ SPORTS",803 Arena Bola(C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
+https://get.perfecttv.net/linear.mpd?channel=bola1sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2B.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (B)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+https://wakutv.site/bola2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2C.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
+https://get.perfecttv.net/linear.mpd?channel=bola2sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleagueB.png",806 Premier League 1 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adapt1ive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+https://wakutv.site/epl1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleagueC.png",806 Premier League 1 (C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
+https://get.perfecttv.net/linear.mpd?channel=epl1sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague2B.png",807 Premier League 2 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://wakutv.site/epl2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague2C.png",807 Premier League 2 (C)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
+https://get.perfecttv.net/linear.mpd?channel=epl2sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstandB.png" group-title="⚽︎ SPORTS",809 Astro Grandstand B
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+https://get.perfecttv.net/linear.mpd?channel=grandstandsd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/footballA.png" group-logo="",809 Astro Football (A)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/footballB.png" group-logo="",809 Astro Football (B)
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/2pxenkmd
+https://get.perfecttv.net/linear.mpd?channel=footballsd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA5NTQ2NjMsImlzcyI6IlZSIiwiZXhwIjoxNzQxMDQxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.jQNdA7ZKtb6T58P-gnLiltbq9W0QHGH0VaOU6zKyly0
+
+#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
 
 #EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton2.png" group-logo="",809 Astro Badminton 2
