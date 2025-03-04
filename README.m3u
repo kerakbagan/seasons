@@ -1143,8 +1143,9 @@ http://119.152.240.15:8001/play/a0bp/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://119.152.240.15:8001/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFL" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://the-afl.my/wp-content/uploads/2019/04/imageedit_3_7307768734.png", AFL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="AFL" tvg-logo="https://the-afl.my/wp-content/uploads/2019/04/imageedit_3_7307768734.png" group-logo="", AFL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://live.mana2.my/AFL/tracks-v1a1/mono.m3u8?token=1741101432-1832989ca33f45e59d91da9baae88ada-0-dc306b7385777c39bb0ce7787b332014&auth_key=1741101432-1832989ca33f45e59d91da9baae88ada-0-3282650308f8182091ab7941e57cbdea
