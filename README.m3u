@@ -1143,3 +1143,8 @@ http://119.152.240.15:8001/play/a0bp/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://119.152.240.15:8001/play/a0gx/index.m3u8
+
+#EXTINF:-1 group-title="⚽︎ SPORTS" tvg-id="SPORT 1 (SGP)"  tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%278601155%27&EntityType=%27LinearSchedule%27&EntityId=%27da64f922-3610-4ee2-8d84-17390864218b%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", 821 SPORT 1 (SGP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkeyv
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
