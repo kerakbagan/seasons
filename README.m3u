@@ -1143,7 +1143,6 @@ http://119.152.240.15:8001/play/a0bp/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://119.152.240.15:8001/play/a0gx/index.m3u8
-
 #EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="AFL" tvg-logo="https://the-afl.my/wp-content/uploads/2019/04/imageedit_3_7307768734.png" group-logo="", AFL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
