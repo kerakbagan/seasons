@@ -1095,7 +1095,6 @@ http://119.152.240.15:8001/play/a0gx/index.m3u8
 https://live.mana2.my/AFL/tracks-v1a1/mono.m3u8?token=1741347872-a0fbb3b37c6947b8a528ccdac5020eec-0-f39afc1b4174ad9e828bfc8dcd559809&auth_key=1741347872-a0fbb3b37c6947b8a528ccdac5020eec-0-b7d161f90cc042fa5e7456d143b0d078
 
 #======radio=====
-
 EXTINF:-1 tvg-id="sarawak fm" tvg-name="SARAWAK FM" group-title="RADIO" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DA2tJ8n8vbbalS9_Fkq99PRcV6Cg_PdDlw&s", RADIO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1105,4 +1104,4 @@ EXTINF:-1 tvg-id="sarawak fm" tvg-name="SARAWAK FM" group-title="RADIO" group-lo
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-https://22253.live.streamtheworld.com:443/SARAWAK_FMAAC.aac
+https://22273.live.streamtheworld.com:443/SARAWAK_FMAAC_SC
