@@ -1090,7 +1090,7 @@ http://119.152.240.15:8001/play/a0gx/index.m3u8
 
 #====RADIO MALAYSIA====
 
-#EXTINF:-1 tvg-id="radiomalaysia" tvg-name="SARAWAKFM" group-title="MALAYSIA" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DA2tJ8n8vbbalS9_Fkq99PRcV6Cg_PdDlw&s", RADIO MALAYSIA
+#EXTINF:-1 tvg-id="radiomalaysia" tvg-name="SARAWAKFM" group-title="RADIO MALAYSIA" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DA2tJ8n8vbbalS9_Fkq99PRcV6Cg_PdDlw&s", RADIO MALAYSIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
