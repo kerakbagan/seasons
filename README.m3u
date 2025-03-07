@@ -763,7 +763,6 @@ https://get.perfecttv.net/linear.mpd?channel=bola1sd&username=perfecttv&password
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
 https://get.perfecttv.net/linear.mpd?channel=bola2sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEzMDEzOTEsImlzcyI6IlZSIiwiZXhwIjoxNzQxMzg2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.kj4kalfj29N06TzNZZUdFo8JZ3NhRu6LU80oIsy9Sag
-
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -771,7 +770,6 @@ https://get.perfecttv.net/linear.mpd?channel=bola2sd&username=perfecttv&password
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleagueB.png",806 Premier League 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -780,8 +778,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 https://wakutv.site/epl1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague2B.png",807 Premier League 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague2B.png",807 Premier League 2#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
