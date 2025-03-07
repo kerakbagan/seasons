@@ -771,7 +771,7 @@ https://get.perfecttv.net/linear.mpd?channel=bola1sd&username=perfecttv&password
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-https://wakutv.site/bola2.mpd
+https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
 
 #EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2C.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (C)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
