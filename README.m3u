@@ -774,7 +774,7 @@ https://jandatv.online/memfs/7911b733-dac7-4fb6-b58b-ef116eb06ffe_output_0.m3u8?
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
-https://jandatv.online/memfs/47d253da-655d-4d1c-82da-dbc06bdeb1aa_output_0.m3u8?session=LXvPvd4sz2bjtdq3J4hFFi
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/6589.ts
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
