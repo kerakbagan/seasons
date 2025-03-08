@@ -782,7 +782,7 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/6589.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/6588.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstandB.png" group-title="⚽︎ SPORTS",809 Astro Grandstand B
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
