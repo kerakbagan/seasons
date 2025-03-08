@@ -1133,7 +1133,7 @@ https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/playlist.m3u8?rj-
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlXRrANUAsu7vORPeL3Pd5A
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg", J SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg", J SPORTS1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
