@@ -1147,9 +1147,3 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/64570.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400551970.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 HD" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QM5BWLm3jUppHsu2xendmyLieFY82D4z1g&siv_OxZ-P1NBliV4QO3ZL3zKOkYKtaIi9WtmAWNandp0NoeJ9lm4Qamy_C_Umn2cP/s320/SSC%201.png", SSC SPORTS 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400551969.m3u8
