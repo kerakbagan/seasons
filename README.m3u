@@ -1133,8 +1133,8 @@ https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/playlist.m3u8?rj-
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlXRrANUAsu7vORPeL3Pd5A
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOOK TV" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27tw9PRgjgX3cWC5YKnNhoYn6WRX33zFHMQ&s", PEACOOK TV
+#EXTINF:-1 tvg-id="" tvg-name="J SPORTS 1" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfhHfacbn_YHYl_ECe6r2cC9r9dFAtbPn8g&s", J SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+http://iptv12k.com:35461/live/654321/123456/3134.ts
