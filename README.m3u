@@ -1100,14 +1100,3 @@ http://119.152.240.15:8001/play/a0gx/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://22273.live.streamtheworld.com:443/SARAWAK_FMAAC_SC
-
-#EXTINF:-1 tvg-id="radiomalaysia" tvg-name="SINAR" group-title="RADIO MALAYSIA" group-logo="" tvg-logo="https://media2.fishtank.my/stations/sinar/square_md.jpg", 102 SINAR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817
-https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlXORr4gA28_tLBzW4onnv
