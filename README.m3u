@@ -1141,3 +1141,9 @@ https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8?rj-t
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/64570.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOOK WWE" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://cdn.wrestlingheadlines.com/wp-content/uploads/2021/03/peacock-WWE.jpg", PEACOOK WWE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/64570.m3u8
