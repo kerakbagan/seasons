@@ -1168,3 +1168,9 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/62800.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/39789.m3u8
+
+#EXTINF:-1 group-logo="NET GEO HD" group-title="KNOWLEDGE" tvg-logo="https://cdn.worldvectorlogo.com/logos/national-geographic.svg", NET GEO HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/13228.m3u8
