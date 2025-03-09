@@ -1148,3 +1148,10 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/64570.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/153718.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png", TNT SPORTS 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/433217.m3u8
