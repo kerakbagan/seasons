@@ -1175,3 +1175,12 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/39789.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/194223.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="GALAXYPREMIUM" group-title="MOVIES" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png", GALAXYPREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 $
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
