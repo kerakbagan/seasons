@@ -174,18 +174,6 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33003
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/401530235
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="SPL 01 SG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6wi5Jbaun67eEyJcPaM5zmm5AwpAviRvc9Dm_Cp7RISFORe4K-oP7qn49TX2yQ5kEw2Aoir68AMVq9DPthMiOXDigFwbJ2F6ZQEzYNc-NwbfcMdAZrngXfKrRQJZzydz-KcvnVKtwXaV/s1600/singapore+premier+league+logo+official.png" , SPL 01 SG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/38108
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="SPL 02 SG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6wi5Jbaun67eEyJcPaM5zmm5AwpAviRvc9Dm_Cp7RISFORe4K-oP7qn49TX2yQ5kEw2Aoir68AMVq9DPthMiOXDigFwbJ2F6ZQEzYNc-NwbfcMdAZrngXfKrRQJZzydz-KcvnVKtwXaV/s1600/singapore+premier+league+logo+official.pngeague+logo+official.png" , SPL 02 SG
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/38105
 #=====knowlegde==========
 
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://perfecttv.net/logo/dmax.png",178 DMAX HD 
@@ -1180,6 +1168,17 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/39789.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://humsab.xyz/IN_CTVS/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SPL  01 SG" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6wi5Jbaun67eEyJcPaM5zmm5AwpAviRvc9Dm_Cp7RISFORe4K-oP7qn49TX2yQ5kEw2Aoir68AMVq9DPthMiOXDigFwbJ2F6ZQEzYNc-NwbfcMdAZrngXfKrRQJZzydz-KcvnVKtwXaV/s1600/singapore+premier+leag", SPL 01 SG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/38108
+
+#EXTINF:-1 tvg-id="" tvg-name="SPL  02 SG" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6wi5Jbaun67eEyJcPaM5zmm5AwpAviRvc9Dm_Cp7RISFORe4K-oP7qn49TX2yQ5kEw2Aoir68AMVq9DPthMiOXDigFwbJ2F6ZQEzYNc-NwbfcMd", SPL 02 SG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/38105
 #=====Bein Sports Arab=========
 
 #EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="BEIN SPORTS 1" group-title="Bein Sports Arab" group-logo="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/a51gd21603537641.png", BEIN SPORTS 1
