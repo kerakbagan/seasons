@@ -1239,9 +1239,3 @@ http://link.luckonline.eu/9c:8c:6e:44:82:73/011688/1424
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://link.luckonline.eu/9c:8c:6e:44:82:73/011688/1423
-
-#EXTINF:-1 tvg-id="" tvg-name="LIVERPOOL TV" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://tvepg.eu/img/ireland/logo/lfc_tv.png", LIVERPOOL TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://app.luckonline.eu/live/9c%3A8c%3A6e%3A44%3A82%3A73/011688/1178.ts
