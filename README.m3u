@@ -4,6 +4,14 @@
 **kerakbagan/#EXTM3U
 #EXTM3U
 #EXTM3U
+#====POCKET TV=======
+#EXTINF:-1 tvg-id="POCKET TV" ch-number="" tvg-name="POCKET TV" group-title="POCKET TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33597744_ico.png?ts=1741784404", POCKET TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#https://get.perfecttv.net/dash.mpd?channel=tv2&username=perfecttv&password=perfecttv
+https://api.mp4.to/static/downloads/bd8aa193-1856-4a18-9987-f2c56168e01a/shotcut-20250312-2027471.ts
+
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
