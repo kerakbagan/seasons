@@ -808,30 +808,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
 https://get.perfecttv.net/linear.mpd?channel=bola2sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4NjEyMTYsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTgwYTliMDAtOWEzZC00ZWFmLTg2YjctZDA5ZTk4MTNmNGZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.WIJmlm5GMEVKaGP04EcVeV6pWB-QQyPP2QhfCFcWs-c
 
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaC.png" group-title="⚽︎ SPORTS",803 Arena Bola
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
-https://get.perfecttv.net/linear.mpd?channel=bola1sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4NjEyMTYsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTgwYTliMDAtOWEzZC00ZWFmLTg2YjctZDA5ZTk4MTNmNGZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.WIJmlm5GMEVKaGP04EcVeV6pWB-QQyPP2QhfCFcWs-c
-
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2B.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (B)
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-https://wakutv.site/bola2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2C.png" group-title="⚽︎ SPORTS",804 Arena Bola 2 (C)
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-https://get.perfecttv.net/linear.mpd?channel=bola2sd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE4MzIxNTIsImlzcyI6IlZSIiwiZXhwIjoxNzQxOTA1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQ0ZjA3ZjQtN2Y5Ny00ZTRmLTlkOTgtMDZlMjNmY2YyNjcyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.RSffsM_pM2L6f-QsXY9TWwpbxZBdQUUyuoM2eesYYXo
-
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="⚽︎ SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
