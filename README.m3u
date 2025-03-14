@@ -1220,3 +1220,9 @@ http://starshare.org/live/134134/134134/98862.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://starshare.org/live/134134/134134/9404.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401", SONY TEN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://mag.king-4k.cc:80/live/2D6D40/23CD52/1441503.ts
