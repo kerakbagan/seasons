@@ -1207,3 +1207,9 @@ http://app.luckonline.eu/live/9c%3A8c%3A6e%3A44%3A82%3A73/011688/1178.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500", SONY TEN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://starshare.org/live/134134/134134/98862.ts
