@@ -1226,3 +1226,9 @@ http://starshare.org/live/134134/134134/9404.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://mag.king-4k.cc:80/live/2D6D40/23CD52/1441503.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 5" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://imgs.search.brave.com/RijcsBIV_8go5EB6a9TiSuG34LmrXBilZxqODYgWh5U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c29ueXBpY3R1cmVz/bmV0d29ya3MuY29t/L2ltYWdlcy9sb2dv/cy9TT05ZX1Nwb3J0/c1RlbjVfU0RfTG9n/b19DTFIucG5n", SONY TEN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://starshare.org/live/134134/134134/17565.ts
