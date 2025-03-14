@@ -1202,6 +1202,7 @@ http://link.luckonline.eu/9c:8c:6e:44:82:73/011688/1423
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://app.luckonline.eu/live/9c%3A8c%3A6e%3A44%3A82%3A73/011688/1178.ts
 
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646", SONY TEN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
