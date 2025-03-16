@@ -141,11 +141,13 @@ https://get.perfecttv.net/1080.mpd?channel=riafhd&username=perfecttv&password=pe
 http://83.142.30.171:8080/perfecttv/perfecttv/36
 https://get.perfecttv.net/dash.mpd?channel=citra&username=perfecttv&password=perfecttv
 
+
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://perfecttv.net/logo/aura.png" ,122 Aura
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="112.astro" tvg-logo="https://perfecttv.net/logo/rania.png" ,123 Rania
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
