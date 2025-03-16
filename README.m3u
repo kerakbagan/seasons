@@ -573,10 +573,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
+
 #EXTINF:-1 tvg-id="GALAXY PREMIUM" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/Galaxy_premium_2015.png/revision/latest?cb=20241026111842&path-prefix=id",GALAXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://83.142.30.171:8080/perfecttv/perfecttv/109
+
 
 #EXTINF:-1 tvg-id="GALAXY" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
