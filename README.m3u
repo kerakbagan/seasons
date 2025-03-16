@@ -582,8 +582,6 @@ http://83.142.30.171:8080/perfecttv/perfecttv/109
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 http://83.142.30.171:8080/perfecttv/perfecttv/108
-
-
 #====entertainment=====
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="ENTERTAINMENT" group-logo="" tvg-logo="https://perfecttv.net/logo/axn.png",168 AXN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
