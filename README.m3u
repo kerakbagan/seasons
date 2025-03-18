@@ -884,6 +884,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8?id=14
 
 #=================== Sport FHD Only =====================================
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
