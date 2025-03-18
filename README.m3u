@@ -870,19 +870,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
-
-
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="SALURAN 1 RTM" tvg-logo="https://rtm-images.glueapi.io/320x0///live_channel/AllEngland1.png" group-logo="", SALURAN 1 RTM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8?id=12
-
-
-#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="SALURAN 2 RTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/AllEnglandSaluran2.jpeg" group-logo="", SALURAN 2 RTM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8?id=14
-
 #=================== Sport FHD Only =====================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
@@ -1248,3 +1235,8 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/197514.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/197515.ts
+
+#EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="Hub Premier 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-logo="", Hub Premier 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+http://iptvtree.net:8080/live/rapidiptv/shhT6NQ6ZdFw5/305270.ts
