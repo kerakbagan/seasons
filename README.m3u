@@ -218,6 +218,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDONESIA" tvg-id="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png" ,INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
@@ -235,12 +236,6 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://rcti-linier.rctiplus.id/hdntl=exp=1742408994~acl=%2F*~data=hdntl~hmac=6dc7baa4e714435d09e5e577540065c10bed5a5ef5e6ce8a253c1c4322b50960/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1742390994~hmac=fc88d1667753457da60f4e226aee074c772e5c125f70b6c40eaf204e24d8d2bb
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/fd/20101206233144%21Antv_logo%282009%29.png" ,ANTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://202.147.193.244/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #=====singapore==========
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="CHANNEL 5 SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/640px-Mediacorp_Channel_5_2023.svg.png" ,CHANNEL 5 SG
