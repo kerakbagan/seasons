@@ -403,6 +403,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
+=====Japan======
+
+#EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="393.astro" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/289491.ts
+
+
 #====korea=======
 
 #EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="393.astro" tvg-logo="https://perfecttv.net/logo/one.png",200 One 
