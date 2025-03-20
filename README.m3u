@@ -235,7 +235,7 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://rcti-linier.rctiplus.id/hdntl=exp=1742465645~acl=%2F*~data=hdntl~hmac=aabd619afdbb7458606dfab2639419e92ada161a6d601104916fc9aac4b7d240/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1742447645~hmac=afa39877350ef29073d07b8d49cf5e58dcb752cdbc57442951ea2c4ba529c3a7
+https://rcti-linier.rctiplus.id/hdntl=exp=1742465833~acl=%2F*~data=hdntl~hmac=a84c0d5185f1b85c5c46a35f87242dcf98af718e9d64ba6c469fb12ff2c76270/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?hdnts=exp=1742447833~hmac=75fe8557b0ec37000a117474cab260a84c0d86da76b5087086225076f9766ff9
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDONESIA" tvg-id="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/2560px-TvOne_Logo%282011%29.svg.png" ,TV ONE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
