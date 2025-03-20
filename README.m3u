@@ -280,6 +280,12 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://xtvplayer.top:8080/sami4465/755488995/10
 
+#EXTINF:-1 tvg-id="MADINAH" ch-number="" tvg-name="MADINAH" group-title="RELIGION" tvg-logo="https://www.slazzer.com/downloads/8d875643-0588-11f0-a8bc-b347d7ab6478/1000552738_prev_ui.png ",MADINAH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://xtvplayer.top:8080/sami4465/755488995/26
+
 ==========KNOWLEDGE==========
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://perfecttv.net/logo/dmax.png",178 DMAX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
