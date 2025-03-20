@@ -986,7 +986,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 http://extraott.com/live/3162523972/3791698850/191686.ts
 
 #=================== Sport FHD Only =====================================
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1120,7 +1119,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=daznlaliga
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704071741",817 TNT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
