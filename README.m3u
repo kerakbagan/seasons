@@ -1335,6 +1335,12 @@ https://jandatv.online/memfs/47d253da-655d-4d1c-82da-dbc06bdeb1aa_output_0.m3u8?
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://iptvtree.net:8080/live/rapidiptv/shhT6NQ6ZdFw5/305270.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="OSN WWE NETWORK" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dii0uzi-ca43795c-e1bb-47a0-bfe1-ae846abe81b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjNTQ1NjAzLWNmNGUtNDhlMC05MzZkLTUzNzZlYTEyZmRjMFwvZGlpMHV6aS1jYTQzNzk1Yy1lMWJiLTQ3YTAtYmZlMS1hZTg0NmFiZTgxYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjSgQ4TdqzkAX9YNbgAENgogHggFdOCwr3akSejVmwo", OSN WWE NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://xtv.ooo:8080/live/123456/654321/383063.ts
+
 ==========lagu raya==========
 
 #EXTINF:-1 tvg-id="" tvg-name="LAGU RAYA" group-title="⚽︎ LAGU RAYA"  tvg-logo="https://png.pngtree.com/png-vector/20210211/ourmid/pngtree-selamat-hari-raya-aidilfitri-typography-png-image_2910700.jpg", LAGU RAYA
