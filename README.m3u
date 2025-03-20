@@ -429,6 +429,12 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/289490.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/289499.ts
 
+#EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3daf9046-c2db-42b6-86d4-90dc9280514d/dfxadae-3a6ab73c-59e4-423e-87c5-82c43557a585.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkYWY5MDQ2LWMyZGItNDJiNi04NmQ0LTkwZGM5MjgwNTE0ZFwvZGZ4YWRhZS0zYTZhYjczYy01OWU0LTQyM2UtODdjNS04MmM0MzU1N2E1ODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TygfP_KYm48L-keFM-Sz8iZShVv2U_CgcU0u3EpqrbI", FUJI TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #====korea=======
 
 #EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="393.astro" tvg-logo="https://perfecttv.net/logo/one.png",200 One 
