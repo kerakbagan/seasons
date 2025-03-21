@@ -1127,7 +1127,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=dazn2
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s",816 Dazn Laliga
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/daznlaliga.png",816 Dazn Laliga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1135,7 +1135,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=daznlaliga
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png",817 TNT 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png ",817 TNT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1148,6 +1148,8 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=tnt2
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png",817 Spotv FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
