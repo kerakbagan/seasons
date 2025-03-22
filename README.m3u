@@ -1311,22 +1311,6 @@ http://starshare.org/live/134134/134134/17565.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://xtvplayer.top:8080/sami4465/755488995/388817
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k8fFDy9cy7Lrlpz4dTIsq6GOybAX3ffZuw&s", Premier League 1 (Backup)
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
-https://jandatv.online/memfs/7911b733-dac7-4fb6-b58b-ef116eb06ffe_output_0.m3u8?session=HhNkaT5SpoYkndL9xFwFNA
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZANenc90_RUh7dxWpH7_UOHWM00yUo8l_A&s", Premier League 2 (Backup)
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
-https://jandatv.online/memfs/47d253da-655d-4d1c-82da-dbc06bdeb1aa_output_0.m3u8?session=CJ2Yx3BQCpAjYp7bD5uT4E
-
 #EXTINF:-1 group-logo="" group-title="⚽︎ SPORTS" tvg-id="Hub Premier 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-logo="", Hub Premier 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
