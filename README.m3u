@@ -1135,14 +1135,14 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=daznlaliga
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",817 TNT 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png",817 TNT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",817 TNT 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",817 TNT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
