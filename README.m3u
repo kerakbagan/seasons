@@ -891,13 +891,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=801
+http://jomtv.vip:2082/live/pockettv/pockettv/167.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png", ASTRO ARENA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=802
+http://jomtv.vip:2082/live/pockettv/pockettv/169.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png", ASTRO ARENA BOLA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
