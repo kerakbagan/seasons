@@ -924,7 +924,7 @@ https://bit.ly/premierleague_1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://jomtv.vip:2082/live/pockettv/pockettv/175.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="⚽︎ SPORTS",809 Astro Grandstand
+#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="⚽︎ SPORTS", Astro Grandstand
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -932,6 +932,13 @@ http://jomtv.vip:2082/live/pockettv/pockettv/175.ts
 #KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
 http://jomtv.vip:2082/live/pockettv/pockettv/170.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro Football" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="⚽︎ SPORTS", Astro Fottball
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+http://jomtv.vip:2082/live/pockettv/pockettv/190.ts
 #=================== Sport FHD Only =====================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
