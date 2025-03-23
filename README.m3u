@@ -943,7 +943,6 @@ http://jomtv.vip:2082/live/pockettv/pockettv/190.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://jomtv.vip:2082/live/pockettv/pockettv/170.ts
 #=================== Sport FHD Only =====================================
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
