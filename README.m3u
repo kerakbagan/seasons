@@ -932,7 +932,7 @@ http://jomtv.vip:2082/live/pockettv/pockettv/4713.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-http://jomtv.vip:2082/live/pockettv/pockettv/4715.ts
+https://bit.ly/41RXaCj
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽︎ SPORTS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k8fFDy9cy7Lrlpz4dTIsq6GOybAX3ffZuw&s",806 Premier League 1
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
