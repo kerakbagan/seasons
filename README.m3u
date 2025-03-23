@@ -921,7 +921,7 @@ https://bit.ly/premierleague_1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://bit.ly/premierleague_2
+http://jomtv.vip:2082/live/pockettv/pockettv/175.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="⚽︎ SPORTS",809 Astro Grandstand
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
