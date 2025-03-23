@@ -924,6 +924,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://iptvtree.net:8080/live/rapidiptv/shhT6NQ6ZdFw5/305270.ts
 
+
 #EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="⚽︎ SPORTS",803 Arena Bola
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
