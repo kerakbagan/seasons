@@ -891,6 +891,7 @@ type=org.w3.clearkey
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #======sport=====
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", ASTRO ARENA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -909,7 +910,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://jomtv.vip:2082/live/pockettv/pockettv/4722.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png", ASTRO ARENA BOLA
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png", ASTRO ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -934,7 +935,6 @@ https://bit.ly/premierleague_1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
 http://jomtv.vip:2082/live/pockettv/pockettv/170.ts
-
 #=================== Sport FHD Only =====================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
