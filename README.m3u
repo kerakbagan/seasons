@@ -887,11 +887,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 
 #======sport=====
-#XTINF:-1 tvg-id="ASTRO ARENA" tvg-name="ASTRO ARENA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", ASTRO ARENA
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", ASTRO ARENA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 http://jomtv.vip:2082/live/pockettv/pockettv/167.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png", ASTRO ARENA 2
