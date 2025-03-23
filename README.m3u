@@ -1224,3 +1224,9 @@ http://starshare.org/live/134134/134134/17565.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://xtvplayer.top:8080/sami4465/755488995/388817
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE CHANNEL HD" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://www.pngall.com/wp-content/uploads/13/WWE-Logo-PNG-Photos.png", WWE CHANNEL HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://xtvplayer.top:8080/sami4465/755488995/383062
