@@ -925,14 +925,13 @@ http://extraott.com/live/3162523972/3791698850/401550643.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://jandatv.online/memfs/783449bf-1f68-4d88-b07b-a70bd3511db6_output_0.m3u8?session=3bALJCfSHCKLfjpKZXUr9t
-
+http://iptvtree.net:8080/live/rapidiptv/shhT6NQ6ZdFw5/146068.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", ASTRO PREMIER LEAGUE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://jomtv.vip:2082/live/pockettv/pockettv/175.ts
+http://iptvtree.net:8080/live/rapidiptv/shhT6NQ6ZdFw5/306491.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO Football" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", ASTRO Football
