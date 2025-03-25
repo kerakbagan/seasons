@@ -125,7 +125,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-https://bit.ly/ASTRORIA_FHD
+http://extraott.com/live/3162523972/3791698850/191867.ts
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -911,14 +911,14 @@ http://jomtv.vip:2082/live/pockettv/pockettv/169.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://6486087.lbss13.xyz/live/3162523972/3791698850/401550644.ts
+http://extraott.com/live/3162523972/3791698850/401550644.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png", ASTRO ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://6486087.lbss13.xyz/live/3162523972/3791698850/401550643.ts
+http://extraott.com/live/3162523972/3791698850/401550643.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", ASTRO PREMIER LEAGUE
