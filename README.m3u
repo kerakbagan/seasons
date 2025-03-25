@@ -911,21 +911,21 @@ http://jomtv.vip:2082/live/pockettv/pockettv/169.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://jomtv.vip:2082/live/pockettv/pockettv/4722.ts
+https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?session=5kGdwsWetuf3UL68JPt4xt
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png", ASTRO ARENA BOLA 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://bit.ly/41RXaCj
+https://jandatv.online/memfs/685c30c8-ba07-4627-aafb-93be17a6f738_output_0.m3u8?session=fKd38oYGfiUzgiZpbyJW7Y
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", ASTRO PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://bit.ly/premierleague_1
+https://jandatv.online/memfs/783449bf-1f68-4d88-b07b-a70bd3511db6_output_0.m3u8?session=3bALJCfSHCKLfjpKZXUr9t
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 2" group-title="⚽︎ SPORTS" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", ASTRO PREMIER LEAGUE 2
