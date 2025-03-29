@@ -130,7 +130,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-http://jomtv.vip:2082/live/pockettv/pockettv/18.ts
+http://extraott.com/live/3162523972/3791698850/191867.ts
 
 #EXTINF:-1 tvg-id="tv9" ch-number="118" tvg-name="ASTEO PRIMA FHD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/primafhd.png",118 Rrima FHD
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
