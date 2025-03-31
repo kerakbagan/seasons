@@ -18,7 +18,7 @@
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://api.mp4.to/static/downloads/bd8aa193-1856-4a18-9987-f2c56168e01a/shotcut-20250312-2027471.ts
 
-#EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://perfecttv.net/logo/tv1.png", 101 TV1
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -26,8 +26,7 @@ https://api.mp4.to/static/downloads/bd8aa193-1856-4a18-9987-f2c56168e01a/shotcut
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-#https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv1
 
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv2.png",102 TV2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,15 +38,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 #https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=perfecttv&password=perfecttv|user-agent=Mozilla/5.0 (Linux; Android 10; Lenovo TB-8705X Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Safari/537.36 TONTON/6.0.35
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b1096000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv3.png",103 TV3 HD
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ef878dbe08de56f7c95a877b884f70c:4e965306704af0ff926eed19f18c6c69
 #https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #https://linearjitp.perfecttv.net/tv3.mpd
-#https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=perfecttv&password=perfecttv|user-agent=Mozilla/5.0 (Linux; Android 10; Lenovo TB-8705X Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Safari/537.36 TONTON/6.0.35
-http://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6420323|user-agent=Mozilla/5.0 (Linux; Android 10; Lenovo TB-8705X Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Safari/537.36 TONTON/6.0.35
 
 #EXTINF:-1 tvg-id="ntv7" tvg-logo="https://perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
