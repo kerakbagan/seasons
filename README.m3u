@@ -597,6 +597,11 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Rasi TV HD" ch-number="" group-title="INDIAN" group-logo="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34273210_ico.png?ts=1743519120",Rasi TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/media.m3u8
+
 #====movies========
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
