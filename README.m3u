@@ -1278,7 +1278,7 @@ https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://extraott.com/live/3162523972/3791698850/6592.ts
 
-#EXTINF:-1 tvg-id="EPL 5 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34273210_ico.png?ts=1743574548", 814 EPL 5 FHD
+#EXTINF:-1 tvg-id="EPL 5 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png", 814 EPL 5 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
