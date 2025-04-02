@@ -305,6 +305,7 @@ http://xtvplayer.top:8080/sami4465/755488995/10
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://xtvplayer.top:8080/sami4465/755488995/26
 
+
 ==========KNOWLEDGE==========
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://perfecttv.net/logo/dmax.png",178 DMAX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -372,6 +373,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+
 #=====chinese======
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
