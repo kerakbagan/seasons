@@ -373,7 +373,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
-
+#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/0/0f/Nat_Geo_Wild_%282008-2019%2C_cerno%29.png/revision/latest?cb=20201228011524",NAT GEO WILD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://extraott.com/live/3162523972/3791698850/165985.ts
 #=====chinese======
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
