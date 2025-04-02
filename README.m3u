@@ -306,7 +306,6 @@ http://xtvplayer.top:8080/sami4465/755488995/10
 http://xtvplayer.top:8080/sami4465/755488995/26
 
 ==========KNOWLEDGE==========
-
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://perfecttv.net/logo/dmax.png",178 DMAX HD 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
@@ -366,7 +365,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="512.unifi" ch-number="512" tvg-name="BBC Lifestyle" group-title="KNOWLEDGE" tvg-logo="https://perfecttv.net/logo/bbclifestyle.png",200 BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
