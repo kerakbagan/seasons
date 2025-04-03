@@ -608,7 +608,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 #https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-http://185.190.25.93:49893/ghLs2zdZSnFvTT000050553136/index.m3u8
+http://45.137.206.58:29843/ghLs2zdZSnFvTT000050553136/index.m3u8
 
 #EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="thanthi one" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanti_One.png" , thanthi one
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
