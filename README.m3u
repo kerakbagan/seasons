@@ -19,6 +19,17 @@
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://api3.mp4.to/static/downloads/64816284-b713-4af6-82d5-2fd9a56d1d24/shotcut-20250402-0912281.ts
 
+#EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL LIGA SUPER MALAYSIA" group-title="INFO CONTENT" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png", INFO CONTENT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
+#https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
+https://api.mp4.to/static/downloads/952daeb2-8204-4965-af6a-73a0b4a5c638/shotcut-20250403-1318434.ts
+
 #====POCKET TV=======
 #EXTINF:-1 tvg-id="POCKET TV" tvg-name="POCKRT TV" group-title="POCKET TV" group-logo="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33597744_ico.png?ts=1741784404", POCKET TV
 #KODIPROP:inputstream=inputstream.adaptive
