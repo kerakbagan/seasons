@@ -7,17 +7,13 @@
 #EXTM3U
 #EXTM3U
 =====INFO CONTENT=====
-
-#EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL EPL 25/26" group-title="INFO CONTENT" group-logo="" tvg-logo="https://loodibee.com/wp-content/uploads/Premier-League-Logo.png", JADUAL EPL 25/26
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
+#EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL EPL 25/26" group-title="INFO CONTENT" tvg-logo="https://loodibee.com/wp-content/uploads/Premier-League-Logo.png",JADUAL EPL 25/26
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-#https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708252.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708252                      
 
 #EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL LIGA SUPER MALAYSIA" group-title="INFO CONTENT" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png", JADUAL LIGA SUPER 25/26
 #KODIPROP:inputstream=inputstream.adaptive
