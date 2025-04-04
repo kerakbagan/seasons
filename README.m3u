@@ -30,6 +30,7 @@ https://api3.mp4.to/static/downloads/9adae736-665f-4224-acbe-e7806813b96a/shotcu
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
 https://api.mp4.to/static/downloads/952daeb2-8204-4965-af6a-73a0b4a5c638/shotcut-20250403-1318434.ts
 
+
 #EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="FORMULA 1" group-title="INFO CONTENT" group-logo="" tvg-logo="https://images.seeklogo.com/logo-png/32/2/formula-one-2017-logo-png_seeklogo-322033.png", FORMULA 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
