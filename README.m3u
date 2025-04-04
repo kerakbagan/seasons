@@ -13,7 +13,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708252                      
+https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708252.ts                      
 
 #EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL LIGA SUPER MALAYSIA" group-title="INFO CONTENT" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png", JADUAL LIGA SUPER 25/26
 #KODIPROP:inputstream=inputstream.adaptive
