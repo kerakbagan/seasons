@@ -17,7 +17,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708250.ts
+https://api3.mp4.to/static/downloads/9c3bf2f9-e8aa-4cd0-9d2e-b79b4926fee9/shotcut-20250404-1708252.
 
 #EXTINF:-1 tvg-id="INFO CONTENT" tvg-name="JADUAL LIGA SUPER MALAYSIA" group-title="INFO CONTENT" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png", JADUAL LIGA SUPER 25/26
 #KODIPROP:inputstream=inputstream.adaptive
