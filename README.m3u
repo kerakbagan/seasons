@@ -62,7 +62,7 @@ https://get.perfecttv.net/dash.mpd?channel=ntv7&username=perfecttv&password=perf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-http://linearjitp-playback.astro.com.my/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/41oQtf_2u8f3dR8wYqEJqDx7ypYbVjEqJAE6AATOu1M4g=NUDB/dash-wv/jitp-dashisowm/2105/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv9.png",106 TV9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
