@@ -57,7 +57,8 @@ https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_3klp0es8&password=wg
 https://get.perfecttv.net/dash.mpd?channel=ntv7&username=perfecttv&password=perfecttv
 
 #EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="MALAYSIA"  tvg-logo="https://perfecttv.net/logo/8tv.png",105 8TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.ts|user-agent=IPTVPROPlayer
+ts|user-agent=IPTVPROPlayer
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv9.png",106 TV9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
