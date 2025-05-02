@@ -57,12 +57,7 @@ https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_3klp0es8&password=wg
 https://get.perfecttv.net/dash.mpd?channel=ntv7&username=perfecttv&password=perfecttv
 
 #EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="MALAYSIA"  tvg-logo="https://perfecttv.net/logo/8tv.png",105 8TV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv9.png",106 TV9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
