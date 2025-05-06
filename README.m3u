@@ -78,7 +78,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="alhijrah" ch-number="114" tvg-name="TV ALHIJRAH" tvg-logo="https://perfecttv.net/logo/alhijrah.png" group-title="MALAYSIA",110 Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
