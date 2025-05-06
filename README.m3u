@@ -501,7 +501,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
-
 #=======india=======
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="251.astro" tvg-logo="https://perfecttv.net/logo/zeecinema.png" , 187 Zee Cinema
@@ -596,11 +595,13 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/media.m3u8
 
+
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="251.astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ162okzuu313TgudLx5Ku0SAOvEi_B7GPw&s" , ASTEO VINMEEN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"} #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
